@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    color-scheme: dark;
+}
+
+canvas {
+    background-color: rgba(0, 0, 0, 0)
+}
